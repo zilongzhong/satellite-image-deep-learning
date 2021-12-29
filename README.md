@@ -70,7 +70,8 @@ Almost always performed using U-Net. For multi/hyper-spectral imagery more class
 * [unetseg](https://github.com/dymaxionlabs/unetseg) -> A set of classes and CLI tools for training a semantic segmentation model based on the U-Net architecture, using Tensorflow and Keras. This implementation is tuned specifically for satellite imagery and other geospatial raster data.
 * [CropMask_RCNN](https://github.com/ecohydro/CropMask_RCNN) -> Segmenting center pivot agriculture to monitor crop water use in drylands with Mask R-CNN and Landsat satellite imagery
 * [Semantic Segmentation of Satellite Imagery using U-Net & fast.ai](https://medium.com/dataseries/image-semantic-segmentation-of-satellite-imagery-using-u-net-e99ae13cf464) -> with [repo](https://github.com/raoofnaushad/Image-Semantic-Segmentation-of-Satellite-Imagery-using-U-Net.)
-* [SSRN](https://github.com/zilongzhong/SSRN) -> Implementation of SSRN for Hyperspectral Image Classification
+* [SSRN](https://github.com/zilongzhong/SSRN) -> Tensorflor and Keras implementation of Spectral-Spatial Residual Network (SSRN) for Hyperspectral Image Classification
+* [SSTN](https://github.com/zilongzhong/SSTN) -> PyTorch implementation of Spectral-Spatial Transformer Network (SSTN) for Hyperspectral Image Classification
 
 ### Semantic segmentation - multiclass classification
 * [Land Cover Classification with U-Net](https://baratam-tarunkumar.medium.com/land-cover-classification-with-u-net-aa618ea64a1b) -> Satellite Image Multi-Class Semantic Segmentation Task with PyTorch Implementation of U-Net
